@@ -1,0 +1,1 @@
+//Done with installing node.js,vs code and typescript
